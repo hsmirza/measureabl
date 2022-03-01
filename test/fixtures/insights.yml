@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total_area: 9.99
+  commercial_area: 9.99
+  residential_area: 9.99
+  common_area: 9.99
+  insightable_type: MyString
+  insightable_id: 
+
+two:
+  total_area: 9.99
+  commercial_area: 9.99
+  residential_area: 9.99
+  common_area: 9.99
+  insightable_type: MyString
+  insightable_id: 
